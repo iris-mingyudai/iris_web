@@ -8,8 +8,7 @@ params:
   banner:
     buttonText: Get Started
     subtitle: |-
-      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      AND RELEASED UNDER THE CREATIVE COMMONS.
+      BE CANDID AND CLEAR
     title: Hi, welcome to my world. 
   blog: {}
   contact:
@@ -31,7 +30,7 @@ params:
   custom_js: []
   description: Your description
   error404:
-    heading: Page couldn't be found
+    heading: Oops
     text: Please visit [this page](/)
   favicon: favicon.ico
   footer:
