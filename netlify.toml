@@ -3,7 +3,7 @@
   command = "hugo"
 
 [build.environment]
-  HUGO_VERSION = "0.102.3"  # the hugo version you are using
+  HUGO_VERSION = "0.102.3"
   HUGO_ENABLEGITINFO = "true"
 
 [context.production.environment]
@@ -13,4 +13,4 @@
   HUGO_VERSION = "0.102.3"
 
 [context.deploy-preview.environment]
-  HUGO_VERSION = "0.102.3" 
+  HUGO_VERSION = "0.102.3"
