@@ -52,10 +52,10 @@ params:
       #   url: https://www.instagram.com
       - icon: fa-github
         label: GitHub
-        url: https://github.com/iris-mingyudai/iris_web
+        url: https://github.com/iris-mingyudai/
       - icon: fa-linkedin
         label: LinkedIn
-        url: www.linkedin.com/in/mingyu-iris-dai
+        url: www.linkedin.com/in/mingyu-iris-dai/
   image: ''
   name: Your name
   navigation:
